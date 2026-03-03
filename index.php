@@ -12,6 +12,7 @@
 echo "<h1>Henlo World</h1>";
 echo "Dnes je " .date("d.m.Y"). "<br>";
 echo "Aktualnz cas je " .date("H:i:s"). "<br>";
+echo "Prva zmena"
 ?>
 </body>
 </html>
